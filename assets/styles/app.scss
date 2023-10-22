@@ -1,0 +1,17 @@
+$primary: #007BFF;
+$secondary: #28a745;
+$gray-600: #343a40;
+$gray-300: #e9ecef;
+
+// Import de Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Styles personnalisés
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: lightgray;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+}
